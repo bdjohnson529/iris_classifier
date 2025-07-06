@@ -22,7 +22,7 @@ This repository contains code for experimenting with neural networks using the I
 
 ## Usage
 
-Run the dataset script to check data loading:
+Run the classifier pipeline:
 
 ```sh
 python classifier.py
